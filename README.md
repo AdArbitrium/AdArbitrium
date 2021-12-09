@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AdArbitrium
-- 👀 I’m interested in data science, games, and analysis
-- 🌱 I’m currently learning data scraping and data analysis skills
-- 💞️ I’m looking to collaborate on nothing as of yet
+
 - 📫 How to reach me alfred.t.hernandez@gmail.com
 
 <!---
