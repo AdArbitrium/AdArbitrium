@@ -1,6 +1,6 @@
 ### Hello World, I'm Anna  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif" width="500" height="320" />
 
 
 ## I'm a coder, gamer, gym rat, and avid reader!
