@@ -3,9 +3,9 @@
  <img align="right" alt="GIF" src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif" width="500" height="320" />
 
 
-## I'm a coder, gamer, gym rat, and avid reader!
+## I'm a coder, gamer, gym goer, and avid reader!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on MERN Stack project
 - 🌱 I’m currently learning React Next, jQuery, SQL
 - 👯 I’m looking to collaborate on full-stack devlopment projects
 - 💬 Ask me about ... Anything
