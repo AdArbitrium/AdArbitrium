@@ -5,8 +5,7 @@
 
 ## I'm a coder, gamer, gym goer, and avid reader!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on MERN Stack project
-- 🌱 I’m currently learning React Next, jQuery, SQL
+- 🔭 I’m currently working through FreeCodeCamp QA course
 - 👯 I’m looking to collaborate on full-stack devlopment projects
 - 💬 Ask me about ... Anything
 
